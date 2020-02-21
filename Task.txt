@@ -1,0 +1,596 @@
+03 dec,2019 
+
+I have learnt Introdoction to JavaScript , syntax , variables , operators , control statements, functions,
+events, cookies, page redirect, dialog boxes, Objects, Validations with example.
+
+04 dec,2019 
+
+DOM,Animation,Debugging,Image map,error handling. Also today I have start with jQuery. In jQuery, Introdoction to jQuery,syntax,selectors with example.
+
+05 dec,2019
+
+Today, I have covered jQuery Topics-
+Events,
+Effects(hide/show,fade,slide,animate,stop,callback,chaining),
+jQuery HTML(Get,set,Add,Remove,css classes), traversing, ajax, jQuery Misc
+
+06 dec,2019
+
+Today,I solved some logical programs.
+1.Dynamically add the questions and answers and perform operations like edit,delete.
+2.In above also perform the pagination.
+3.create the slider using jQuery.
+4.Start to develop the tic-tac-toe game.
+
+07 dec,2019
+
+1.Develop the tic-tac-toe game.
+2.Try to solve Date Function Examples.
+3.Getting started with ES6.
+-Introdoction to ES6
+-Variables,Control statements,Events,Arrow Functions,Classes
+
+09 dec,2019
+
+Today, I learnt ES6 topics-
+Cookies,page redirect,dialog boxes,void keyword,objects,number,boolean,string methods,date,array.
+Also start to develop numeric puzzle game.
+
+10 dec,2019
+
+Develop the number puzzle game.
+Develop calculator.
+Solve problems which is given by senior.
+-Display the message at a particular time period without using settimeout and setInterval.
+
+11 dec,2019
+
+Solve problems which is given by senior.
+-2D Array Manipulation in Javascript with example displaying address of duplicate values.
+-Drag & drop element inside the parent element.
+-Create a triangle pattern of a random character. on mouseover to the character display the ascii and binary value of that character.
+
+12 dec,2019
+
+-Solve the problem of Autocomplete textbox in javascript.
+-Display Pascal triangle in Javascript
+-Exam of Javascript.
+
+Date:13-dec-2019
+
+Today I learnt Node.js Basic Topics
+(Introdocution, Process Model, Node.js Console, Node.js Basics, Node.js Modules)
+Divyesh Sir Coverd Basic Idea About Node.js
+-Working on task given by Divyesh Sir.
+Tommorow I'll complete the task given by sir and start to learn further topics of node.js.
+
+Date:14-dec-2019
+
+-Complete the task given by Divyesh sir.
+
+-I learnt topics of node.js.
+  -Local Modules,Export Module
+  -NPM
+  -Node.js web server(create server and handle request)
+  -Node.js file system(read,write,append,open,close,delete file)
+
+Date:16-dec-2019
+I learnt some topics of node.js
+ -Node.js EventEmitter(create and handle custom events by using events module)
+ -Frameworks for node.js
+ -Express.js
+watched node.js videos
+ -learn validator library for validate data.
+ -learn Command line Argument
+
+ -learn http status code.	
+Task:create a middleware which is check weather request is authorized or not.
+
+Date:17-dec-2019
+ -learn different types of content-type.
+ -Middleware : Global Middleware
+               Seprate Route Middleware
+               Seprate Route Multiple Middleware With Example.
+ -express routing(Practically implement how to export router and use in another file.)
+
+ Task : create an middleware which checks total_records Header value is numeric or not and send response with appropriate message with status code
+
+
+Date:18-12-2019
+MongoDB:
+ -Today I learn about mongodb.
+  -Introdocution
+  -Environment
+  -Datatypes
+  -Create database,collection
+  -Insert,Query,Update,Delete Document
+  -Projection
+  -Limiting,sorting records
+  -Aggregation 
+
+   Also perform task
+  -Create Schema and perform CRUD operation with mongoDb database connctivity.
+
+Date:19-12-2019
+  Learn about 
+ -Callback
+ -promises,async/await functions with example.
+ -jsonwebtoken
+ -generate jwt token sign and verify practically.
+ Task: Create An endpoint Which is Check the Role From Header Value that contain token  and according To role give accese to user.
+
+Date:20-12-2019
+ Complete the task of yesterday
+-Create An endpoint Which is Check the Role From Header Value that contain jwt token  and according to role give accese to user.
+-whatch video of node.js 
+ -Asynchronous Basics
+ -making and customizing http request
+ -handling errors
+
+Date:21-12-2019
+-Modify the task of yesterday as sir said.
+(Create An endpoint Which is Check the Role From Header Value that contain jwt token  and according to role give accese to user.)
+-watch the video of node.js RestAPI and mongoose.
+-validator
+
+Date:23-12-019
+-preparation for test
+-Given test on node.js 
+ -node.js application for Cricket Team and player management system.
+
+Date : 24-12-2019
+
+Today I learn about Git.
+-Introdocution
+-Basic Concept.
+-Life Cycle
+-Implement git command practically
+  init,config,status,remote,add,commit,push,pull,branch
+
+Date : 25-12-2019.
+-create repository on github and implement git command practically
+ remove,restore,diff
+-Revised git commands
+
+Date :26-12-2019.
+
+ReactJs:
+-Introduction
+-React Features
+
+Learn React Js from ReactJs tutorial video
+-Create React App
+-Exporting importing components.
+-Function Components,class Components
+-JSX
+-Props
+-state
+-setState
+
+Date :27-12-2019
+
+Reviced ES6 feactures as senior said
+-map() method
+-reduce()
+-filter()
+Learn basic structure of react from senior.
+-JSX
+-Components
+-state
+Task:
+-Create array of objects and display object using map() function.	
+-Create react app and perform class component example
+ and state example
+
+Date:30-12-2019
+React.js
+
+Perform task given by senior.
+Task:Create a form and click on submit button display data using state and props. Also perform validation.
+
+-Learn state and lifecycle
+-Lifecycle Methods(componentDidMount(), componentWillUnmount())
+ Implement this methods for clock(create a clock component set time in state and update it every second using setState in  setInterval method)
+-Learn component lifecycle.
+
+Date:31-12-2019
+
+React.js
+-EventHandling
+-Find shortcut keys of vs code.
+-debugger
+Task:-create the demo of buttons of react examples. On button click shows the example.
+     -Perform name,email,password,age validation using onBlur() event in form and submit the valid data.
+     -Create app and use the component lifecycle methods      (constructor,getDerivedStateFromProps,shouldComponentUpdate,render)
+
+Date:1-1-2020
+React.js
+watched videos of React.js
+ -Destructuring props and state
+ -Event Handling
+ -Binding Event Handlers
+
+React Router
+ -Introdoction
+ -Routing
+ -Adding Navigation using Link component
+ -Switch
+ -Url Parameters
+ -Nested Routes
+ -NavLink
+ -Programmatically navigate
+
+-Getting started with Fetching API Data with React.JS
+
+Date:2-1-2020
+React.js
+
+Task:
+-Implement Routing in react app.
+-Today I complete the task of fetching data from api(create api in node) and display it in react component.
+-Also create a form  in react and insert data in mongodb database using post api(create api in node).
+-Working on How to store an images to MongoDB with Node.js 
+
+Date:3-1-2020
+React.js
+
+Today i learn How to store an images to MongoDB with Node.js and image validation.
+Task:
+-Today i complete the task of storing an Images(single,multiple) to MongoDB with Node.js.
+ Also Display Images using get route  with mongodb database.
+-practice of fetching data from api and display in react component with routing.
+
+Date:4-1-2020
+React.js
+
+-Give the test of react.js
+-wtched the video of react.js(snehal sir's video)
+  -Learn about the react architecture
+  -Learn about form designing with reactstrap,Bootstrap
+-next day i will learn about redux store.
+
+Date:6-1-2020
+React.js
+-Learn reactstrap component 
+ -form,button,alert,Navbar,table
+-Learn overview of redux.(watched snehal sir video)
+
+Task:
+-create header with reactstrap component(Navbar,NavbarBrand,Nav,NavItem,NavLink) also implement header with routing
+-Upload image using axios in react and display images in react component from database.
+
+
+Date:7-1-2020
+React.js
+Redux devTool
+-Learn about redux from snehal sir's video
+  -Action(axios)
+  -api
+  -Dispatch
+  -redux
+  -reducer
+ 
+Task:
+-perform login fuctionality using redux
+ ->generate token of authorized user using api(reqres.in) and redirect to home page using custom routing.
+
+Date:8-1-2020
+React.js
+-Complete the video of snehal sir and create a demo for redux.
+
+Task:
+-Perform a crud operation using React and Redux(user can create post,read and delete).
+-Perform login logout functionality using redux
+ ->manage authorization token using localStorage(if token available then redirect to home page otherwise redirect to   login page).
+ ->create custom routing for access to page according to user role.
+
+Next Day:
+ I will learn about JWT in react and perform crud operation using api.
+
+Date : 9-1-2020
+React.js
+-Redux type
+-Redux-thunk
+-ReactStrap component
+ ->Form(Form,FormGroup,FormFeedback)
+-moment(for date validation)
+  
+Task : 
+-create the player registration form with validation using reactStrap component.
+-working on creating player using redux(create store,reducer,action,service).
+
+Date:10-1-2020
+React.js
+-form design with mdb library
+Task:
+-create demo for player registration,display specific and display all player with redux and use axios for calling api
+-working on task(admin side) which is given by senior
+  ->create login and form with reactstrap component and use mdb. 
+
+Date:11-01-2020
+React.js
+
+Task:
+-working on task(player admin side)
+ ->create registration page for player with reactstrap component with all possible validation.
+ ->modify  api(post,get) for player(adding fields for upload,email,password,role)
+ ->create  api for login and generate jwt token.
+
+Date:13-01-2020
+React.js
+
+Task:
+-working on task(player admin side)
+ ->Player registration with redux and calling api(api created in node)
+   -Also upload profile  for registration user with validation(check file type) and save password in bcrypt form.
+ ->Login functionality with redux and calling api(api created in node)
+ ->manage authorization token while login user and save token and role in localstorage.
+
+Date:15-01-2020
+React.js
+
+Task:
+-working on task(player admin sise)
+ ->Display player details with edit delete options using redux and calling api(api created in node)
+ ->perform deletion on perticular player with redux and calling api(api created in node)
+
+->Tommorow i will perform edit peticular record,pegination 
+
+Date:16-01-2020
+React.js
+
+Task:
+-working on task(player admin side)
+ ->Perform deletetion of perticular user using redux and api and also remove deleted user from redux 
+ ->Display user data on registration page for update when edit button click and
+ ->perform update of perticular user using redux and api and also update record in redux and display updated data.
+
+Date:17-01-2020
+React.js
+
+Task:
+-working on task
+ ->Perform pegination for display data with redux frontendside
+   -also perform next,previous,last,first pegination
+ ->Perform searching facility team wise for player with redux and display data with pegination. 
+
+Date:18-01-2020
+React.js
+
+Task:
+-working on task
+ ->Perform searching facility name wise with redux and display data with pegination.(use regular expression)
+ ->working on checkbox selection and display selected view user.
+
+Date:20-01-2020
+React.js
+
+Task:
+-complete the task
+ ->perform sorting(assending/disassending) functionality on name and display data with pagination
+ ->perform functionality of select particular record and  selectall/deselect all record using checkbox and display selcted record to another page.
+ ->manage token expiration. if token expire then redirect to login page.
+ ->preview image on mouseover event.
+
+Date:21-01-2020
+React.js
+
+Task:
+->Given Test of react redux
+  (Theater,Movies,Seats)
+
+Date:22-01-2020
+React.js
+Task:
+->Change ticket booked functionality in Movie ticket book app.
+
+Learn about Hooks
+->Introdocution of Hooks
+->State Hooks
+->Effect Hooks
+
+Date : 23-01-2020
+React.js
+
+Learn about Hooks
+->useCallback
+->useContext
+->useReducer
+->practiced above concept through example.
+
+Date : 24-01-2020
+React.js
+
+Learn about Hooks
+->useRef
+->useImperativeHandle
+->useLayoutEffect
+->memoizeOne 
+->practiced useRef & useImperativeHandle concept through example
+->Fetch data using api and using the useEffect
+
+Date : 25-01-2020
+React.js
+
+Learn about Hooks from videos
+->useState with array,object
+->useEffect with Cleanup
+->Fetch data using api and using the useReducer
+->useContext for passing data to components.
+
+Date:27-1-2020
+React.js
+
+Learn about Hooks
+-Custom hooks
+-useSelector
+-useDispatch
+-Practiced above concept through  examples
+-Reselect
+
+Date : 28-01-2020
+React.js
+
+->Hook Concept
+ -code-Splitting
+ -React.lazy
+->Learned about React-Saga
+ -redux-saga
+ -generator function
+ -createSagaMiddleware
+ -redux-saga/effects
+    -put,takeLatest,all
+
+Date : 29-01-2020
+React.js
+
+->Learn about React-Saga
+ -Basic halpers
+   -takeEvery(),takeLatest()
+   -take(),put(),call(),race()
+Task:
+ -working on demo of login registration using redux-saga
+
+Date : 30-01-2020
+React.js
+
+->perform login functionality using api and redux-saga
+->store logged users role and token in redux and local storage
+->fetch data using get api and redux-saga
+->and display data from redux store
+
+Date : 31-01-2020
+React.js
+
+->craeate custom route for login/registration/display user 
+->in custom route check user role and token and according to role give access to page.
+->perform logout functionality using redux-saga
+->For user registration do validation using hooks.
+
+Date : 01/02/2020
+React.js
+
+->For user registration did validation using hooks.
+->did registration using redux-saga and calling api
+
+->Understanding the live project with Bhavna ma'am
+
+Date: 03/02/2020
+
+->Understanding the bsics of live project(Sales Quoter) with Bhavna ma'am
+->Learn how to generate ticket on Jira
+->Learn how to stash changes
+->Learn pull request review(Big bucket).
+->Bamboo for deployement
+
+Date: 04/02/2020
+
+->Understand the basic flow of live project(Sales Quoter) with Bhavna ma'am
+->Learn about Selenium
+ -Intodoction 
+ -types of testing
+ -web driver
+   -locating elements
+   -Performing actions on the AUT
+   -browser manipulation
+   -javascript alert,prompts and confirmations
+
+Date: 05/02/2020
+
+->Understand the flow of live project(Sales Quoter) with Bhavna ma'am
+->Learn about selenium
+  -web element
+  -keyboard(send keys,key up,key down)
+  -Remote webDriver
+  -overview of grid
+  -Mouse actions
+->Practice of git with demo project
+  -create repository,generate SSH key and add in git
+  -setup project with git
+  -create branch and add,commit files to branch and push branch to git
+
+Date:06/02/2020
+
+->Setup selenium in demo project
+->add configuration for chrome browser and write functional test case for testing a web page.
+->Understand the flow of live project(Sales Quoter) with Bhavna ma'am.
+
+Date:07/02/2020
+
+->Understand the  live project(Sales Quoter) with Bhavna ma'am.
+->Wrote Functional test case for Sales Quoter Guest Form and home page. 
+
+Date : 08/02/2020
+
+->Understand the  live project(Sales Quoter)
+->Functional test case for Seles Quoter Guest home page,size tab and color tab for door
+
+Date : 10/02/2020
+
+->Understand the  live project(Sales Quoter)
+->Modify Functional test case for Seles Quoter Guest home page,size tab and color tab for door as senior said
+->did manual testing for sales Person,accounting,survay,production and find a bug for sales Person. 
+
+Date: 11/02/2020
+
+->Understood the  live project(Sales Quoter) with Bhavna ma'am.
+->Take a look into Browserstack and watch Videos in browserstack
+->Understood and wrote Functional test case for Payment flow for sales person with the help of senior.
+->Understood FT for pegination flow for sales Person.
+
+Date: 12/2/2020
+
+->Understand the  live project(Sales Quoter) with Bhavna ma'am.
+->wrote Functional test case for Customer management in view quote for sales person with the help of senior.
+->Understood  the flow of login and createQuote in slaes person
+
+Date: 13/2/2020
+
+->Understand the  live project(Sales Quoter) with Bhavna ma'am.
+->Take a look into the flow of add door,edit added door for createQuote and quoteValidation in slaes person
+->Made changes in FT for sales Person.
+
+Date : 14/2/2020
+
+->Understand the  live project(Sales Quoter) with Bhavna ma'am.
+->Take a look into Browserstack and watch Videos in browserstack and test the flow of failed flow.
+->Understood the flow of Aluminium Casement Window and 4700 Series Slider (Trade).
+->working on FT for sales person.
+
+Date : 15/2/2020
+
+->wrote FT for sales person acordding to its functionality.
+->FT for test content of the page and handle output of the test case.
+->Understand the  live project(Sales Quoter) with Bhavna ma'am.
+
+Date : 17/02/2020
+
+->Understand the  live project(Sales Quoter) with Bhavna ma'am.
+->Understood the flow of viewQuote and viewOrder 
+->working on FT for checking the pdf file content that opened in new tab.
+
+Date: 18/02/2020
+
+->Understand the  live project(Sales Quoter) with Bhavna ma'am.
+->wrote FT for View Quote in sales person.
+->Also handled alert and verify the text of alert. 
+->working on FT for handling pdf.
+
+Date: 19/02/2020
+
+->Understand the project(Sales Quoter) with Bhavna ma'am.
+->try to handle pdf in selenium.
+->Understood survey_flow and Production flow.
+
+Date : 20/02/2020
+
+->Today understood the following flow
+   -accounting depth flow
+   -In SQ admin manage user,manage panel ranges,manage window group,fixed formulas,frame formula,percentage formulas,sash type,
+    options group type,group name type,hardware option,manage companies,manage hasbalance.
+
+->Also Learn some more selenium webdriver method.
+
+Date : 21/02/2020
+
+
